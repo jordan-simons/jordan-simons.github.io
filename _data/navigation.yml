@@ -16,7 +16,12 @@ main:
     
   - title: "photography"
     url: /photography-portfolio/
-  
+   
+  - title: "resources"
+    url: /resources/
+
+  - title: "contact-about"
+    url: /contact-about/
     
   # - title: "CV"
   #   url: /cv-jsimons/
